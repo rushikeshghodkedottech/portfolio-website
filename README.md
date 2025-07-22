@@ -1,0 +1,1 @@
+Nothing to do here, Just a normal static portfolio created to practice Github Actions
